@@ -13,7 +13,7 @@ User-friendly console interface.
 Input numbers as strings to avoid overflow.
 ⚙️ Build & Run
 Clone the repository:
-git clone https://github.com/your-username/arbitrary-precision-calculator.git
+
 cd arbitrary-precision-calculator
 Compile the project:
 gcc calculator.c -o calculator
